@@ -36,3 +36,9 @@ otro para disminuirlo y un tercero para restablecerlo. La estructura fundamental
 9)Por último, una función llamada mostrarContador()que se encarga de presentar los valores de unidades y decenas en los visualizadores.
 
 Además, en términos de la electrónica utilizada, se emplea la multiplexación y evita problemas de ruido de señal, como el fenómeno conocido como "debounce" o "efecto rebote" .
+
+2) Enlace del proyecto:
+
+   [SPD - Primer parcial - Parte 1](https://www.tinkercad.com/things/lCP1Yd2mde5-parte-1-controlar-un-contador-por-medio-de-pulsadores-en-un/editel)
+
+
