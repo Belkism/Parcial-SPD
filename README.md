@@ -39,6 +39,6 @@ Además, en términos de la electrónica utilizada, se emplea la multiplexación
 
 2) Enlace del proyecto:
 
-   [SPD - Primer parcial - Parte 1](https://www.tinkercad.com/things/lCP1Yd2mde5-parte-1-controlar-un-contador-por-medio-de-pulsadores-en-un/editel)
+   ![SPD - Primer parcial - Parte 1](https://www.tinkercad.com/things/lCP1Yd2mde5-parte-1-controlar-un-contador-por-medio-de-pulsadores-en-un/editel)
 
 
