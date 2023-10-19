@@ -58,6 +58,7 @@ Además, se agregó un sensor de flexión , este dispositivo detecta la flexión
 
 ![Motor CC](https://github.com/Belkism/Parcial-SPD/assets/138260690/65185ad6-a575-4e2c-9d8d-505475fdc439)
 
+![Motor CC](https://github.com/Belkism/Parcial-SPD/assets/138260690/90384f39-0780-4629-af59-a4c76ba6e354)
 
 
 
