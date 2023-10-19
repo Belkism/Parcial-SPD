@@ -63,7 +63,8 @@ Además, se agregó un sensor de flexión , este dispositivo detecta la flexión
 Se le puede agregar al proyecto un "motor de aficionado", llamado así porque es un motor de cc (corriente continua) que se le acopló una carcasa para generar movimiento, ya sea para brazos, ruedas, hélices, etc. sobre este, podemos incluir al proyecto un "controlador de motor" o también llamado "Puente H" . En el siguiente enlace se enseña cómo podría usarse dicho motor y controlador en una placa arduino para controlar el sentido de giro del motor.
 
 
-![ejemplo del uso de los componentes](https://github.com/Belkism/Parcial-SPD/assets/138260690/72036bcf-33b8-4a76-9863-1438590d0e0b)
+![ejemplo](https://github.com/Belkism/Parcial-SPD/assets/138260690/7c83c7d7-3b27-4b6c-ba4f-85aa3e04a380)
+
 
 
 
