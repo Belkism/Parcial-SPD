@@ -96,5 +96,9 @@ Detección de radiación UV.
 ![fotodiodo](https://github.com/Belkism/Parcial-SPD/assets/138260690/06a9db71-0aaf-4e20-b75c-606414c6fcb5)
 
 
+3) Enlace del proyecto:
 
+   ![SPD - Primer parcial - Parte 3](https://www.tinkercad.com/things/1z0DjQdhvMT-parte-3-implementacion-de-fotodiodo-en-el-proyecto/editel)
+   
+   
 
