@@ -73,7 +73,23 @@ Tercera Parte: Implementación de un fotodiodo en el proyecto
 ![Tercera parte](https://github.com/Belkism/Parcial-SPD/assets/138260690/ba2f4cfd-bff8-427f-9072-79e2ed682c98)
 
 
+A la parte 2 le agregamos un fotodiodo . Un fotodiodo es un dispositivo semiconductor que genera una corriente eléctrica cuando se exponen a la luz. Esto se logra mediante la absorción de fotografías de luz que liberan electrones en el material semiconductor. Estos electrones generan una corriente eléctrica detectable. Para poder funcionar correctamente, un fotodiodo se compone de una polarización inversa, que permite el adecuado flujo de electrones o la corriente en sentido inverso. Los fotodiodos son muy sensibles y tienen una respuesta rápida a cambios en la intensidad de la luz. Pueden estar diseñados para detectar luz en un rango específico del espectro electromagnético, como infrarrojo, ultravioleta o visible. Los fotodiodos se utilizan en aplicaciones que requieren alta sensibilidad y precisión, como en fotodetectores, comunicaciones ópticas, lectores de códigos de barras y sistemas de control automático.
 
+
+2) Explicación de su funcionamiento
+Desde su salida negativa (Cátodo) la alimentamos con 5V y desde su salida positiva (Ánodo) la conectamos, a una entrada analógica de la placa de Arduino, ya una resistencia de 50kOhm que esta conectada a Tierra (Podemos colocarle otro valor a la resistencia , pero en este caso sugerimos colocarle ese valor para trabajar con ella, en el caso de querer colocar otra resistencia, tendriamos que regular todo otra vez). Ahora, por medio de una variable, en este caso lectura_luz, tomamos un rango de todos los valores que nos va dando el sensor a medida que incrementa o disminuye la intensidad luminosa, en este caso, nos entrega un rango de (49 - 1023), por lo que para saber que porcentaje de intensidad lumínica es, llamamos a otra variable, en este caso es luzutilizando la función map() para poner esos valores entre un rango del 0% al 100%. De esta manera, sabemos que a menor porcentaje de intensidad luminosa, el fotodiodo entrega menor voltaje y mayor porcentaje de luz liminica, el fotodiodo entrega un mayor voltaje.
+
+Algunos ejemplos de uso del fotodiodo son:
+
+Comunicaciones
+Lectores de códigos de barras
+Sensores de proximidad
+Sistemas de seguridad y alarmas.
+Fotodetectores en experimentos científicos.
+Radiometria y fotometria
+Detectores de infrarrojos (IR)
+Detección de radiación UV
+![fotodiodo](https://github.com/Belkism/Parcial-SPD/assets/138260690/2ba0fd7c-d844-4992-9082-0d3e2436f4ba)
 
 
 
