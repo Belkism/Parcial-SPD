@@ -84,14 +84,16 @@ Desde su salida negativa (Cátodo) la alimentamos con 5V y desde su salida posit
 Algunos ejemplos de uso del fotodiodo son:
 
 
-Comunicaciones
-Lectores de códigos de barras
-Sensores de proximidad
+Comunicaciones.
+Lectores de códigos de barras.
+Sensores de proximidad.
 Sistemas de seguridad y alarmas.
 Fotodetectores en experimentos científicos.
-Radiometria y fotometria
-Detectores de infrarrojos (IR)
-Detección de radiación UV
+Radiometria y fotometria.
+Detectores de infrarrojos (IR).
+Detección de radiación UV.
+
+![fotodiodo](https://github.com/Belkism/Parcial-SPD/assets/138260690/06a9db71-0aaf-4e20-b75c-606414c6fcb5)
 
 
 
