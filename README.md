@@ -98,7 +98,8 @@ Detección de radiación UV.
 
 3) Enlace del proyecto:
 
-   ![SPD - Primer parcial - Parte 3](https://www.tinkercad.com/things/1z0DjQdhvMT-parte-3-implementacion-de-fotodiodo-en-el-proyecto/editel)
+[SPD - Primer parcial - Parte 3](https://www.tinkercad.com/things/1z0DjQdhvMT-parte-3-implementacion-de-fotodiodo-en-el-proyecto/editel)
+
    
    
 
