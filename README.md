@@ -54,8 +54,10 @@ Además, se agregó un sensor de flexión , este dispositivo detecta la flexión
 2) Enlace del proyecto
 [SPD - Primer parcial - Parte 2](https://www.tinkercad.com/things/dzCsGi5BjrA-parte-2-cambio-de-estado-utilizando-un-interruptor-deslizante/editel)
 
-3) Sugerencia como componente adicional
-![Motor cc]((https://github.com/Belkism/Parcial-SPD/assets/138260690/3f0f7651-35da-4e54-98a5-03a7a85b6c10)
+3) Sugerencia como componente adicional:
+
+   
+![Motor cc](https://github.com/Belkism/Parcial-SPD/assets/138260690/3f0f7651-35da-4e54-98a5-03a7a85b6c10)
 
 
 
