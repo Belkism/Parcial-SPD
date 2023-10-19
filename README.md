@@ -65,7 +65,8 @@ Se le puede agregar al proyecto un "motor de aficionado", llamado así porque es
 
 ![ejemplo](https://github.com/Belkism/Parcial-SPD/assets/138260690/7c83c7d7-3b27-4b6c-ba4f-85aa3e04a380)
 
-
+Enlace del ejemplo:
+[Ejemplo Motor CC](https://www.tinkercad.com/things/4rXMr6WlaqW-super-gaaris-albar/editel?tenant=circuits)
 
 
 
