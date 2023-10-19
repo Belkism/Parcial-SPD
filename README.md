@@ -46,6 +46,7 @@ Segunda Parte: Cambio de estado por medio de un interruptor deslizante + sensor 
 ![segunda parte](https://github.com/Belkism/Parcial-SPD/assets/138260690/f1209fe4-5870-4e35-b15e-0bfa21d5502b)
 
 1) Descripción
+   
 Para la parte 1, agregamos ahora un interruptor, donde su funcionamiento es alternar el estado entre, mostrar los números del contador de la misma manera que la parte 1, y mostrar de manera automática los números primos (números que solo son divisibles por 1 y por si mismos) que se encuentren entre el rango de 0 a 99. Para esto, declaramos una función llamadadetectarPrimo()
 
 Además, se agregó un sensor de flexión , este dispositivo detecta la flexión o curvatura de un objeto, como un cable o una pieza flexible y entrega el ángulo de inclinación. Para esto se declara una función de nombre mostrarAngulo().
