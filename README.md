@@ -41,5 +41,8 @@ Además, en términos de la electrónica utilizada, se emplea la multiplexación
 
 [SPD - Primer parcial - Parte 1](https://www.tinkercad.com/things/lCP1Yd2mde5-parte-1-controlar-un-contador-por-medio-de-pulsadores-en-un/editel)
 
-##Segunda Parte: Cambio de estado por medio de un interruptor deslizante + sensor de flexión
+Segunda Parte: Cambio de estado por medio de un interruptor deslizante + sensor de flexión.
+
+![segunda parte](https://github.com/Belkism/Parcial-SPD/assets/138260690/f1209fe4-5870-4e35-b15e-0bfa21d5502b)
+
 
