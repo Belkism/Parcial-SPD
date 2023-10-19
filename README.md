@@ -52,7 +52,7 @@ Para la parte 1, agregamos ahora un interruptor, donde su funcionamiento es alte
 Además, se agregó un sensor de flexión , este dispositivo detecta la flexión o curvatura de un objeto, como un cable o una pieza flexible y entrega el ángulo de inclinación. Para esto se declara una función de nombre mostrarAngulo().
 
 2) Enlace del proyecto
-   [SPD - Primer parcial - Parte 2](https://www.tinkercad.com/things/dzCsGi5BjrA-parte-2-cambio-de-estado-utilizando-un-interruptor-deslizante/editel)
+[SPD - Primer parcial - Parte 2](https://www.tinkercad.com/things/dzCsGi5BjrA-parte-2-cambio-de-estado-utilizando-un-interruptor-deslizante/editel)
    
 
 
