@@ -68,6 +68,11 @@ Se le puede agregar al proyecto un "motor de aficionado", llamado así porque es
 Enlace del ejemplo:
 [Ejemplo Motor CC](https://www.tinkercad.com/things/4rXMr6WlaqW-super-gaaris-albar/editel?tenant=circuits)
 
+Tercera Parte: Implementación de un fotodiodo en el proyecto
+
+![Tercera parte](https://github.com/Belkism/Parcial-SPD/assets/138260690/ba2f4cfd-bff8-427f-9072-79e2ed682c98)
+
+
 
 
 
