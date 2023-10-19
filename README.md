@@ -60,5 +60,12 @@ Además, se agregó un sensor de flexión , este dispositivo detecta la flexión
 
 ![Motor CC](https://github.com/Belkism/Parcial-SPD/assets/138260690/90384f39-0780-4629-af59-a4c76ba6e354)
 
+Se le puede agregar al proyecto un "motor de aficionado", llamado así porque es un motor de cc (corriente continua) que se le acopló una carcasa para generar movimiento, ya sea para brazos, ruedas, hélices, etc. sobre este, podemos incluir al proyecto un "controlador de motor" o también llamado "Puente H" . En el siguiente enlace se enseña cómo podría usarse dicho motor y controlador en una placa arduino para controlar el sentido de giro del motor.
+
+
+![ejemplo del uso de los componentes](https://github.com/Belkism/Parcial-SPD/assets/138260690/130e4fb0-b0c3-433d-b9f0-824431f790bc)
+
+
+
 
 
